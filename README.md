@@ -1,4 +1,5 @@
 📊 PRODIGY_DS_01 – Visualizing Population Distribution (Bar Chart & Histogram)
+
 ✅ Task Objective
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable.
 In this task, I chose to visualize the population distribution of countries using real-world data.
